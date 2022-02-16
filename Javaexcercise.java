@@ -1,4 +1,3 @@
-
 public class Javaexcercise {
 
     public static void main(String[] args) {
